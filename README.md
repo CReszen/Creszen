@@ -1,5 +1,5 @@
 <div id="template" align="center">
-    <img src="https://user-images.githubusercontent.com/111553672/185549165-ed759027-69b7-4cba-a990-edb835fdd45a.gif" />
+    <img src="https://user-images.githubusercontent.com/111553672/185555896-b8f4ef3e-de4c-474b-b149-e8742ea85f3a.gif" />
  </div>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/reggy-samius-213019238/">
